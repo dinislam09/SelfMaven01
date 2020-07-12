@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56104" started-at="2020-07-03T00:50:48 EDT" finished-at="2020-07-03T00:51:44 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56104" started-at="2020-07-03T00:50:48 EDT" finished-at="2020-07-03T00:51:44 EDT">
+      <class name="com.test.Excel_object">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.test.Excel_object@184f6be2]" name="openbrowser" is-config="true" duration-ms="12577" started-at="2020-07-03T00:50:49 EDT" finished-at="2020-07-03T00:51:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getData(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:com.test.Excel_object@184f6be2]" name="getData" duration-ms="2218" started-at="2020-07-03T00:51:02 EDT" data-provider="facebook" finished-at="2020-07-03T00:51:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[md1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[islam1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.46400303E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.1133322E7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.test.Excel_object@184f6be2]" name="browserClose" is-config="true" duration-ms="1238" started-at="2020-07-03T00:51:04 EDT" finished-at="2020-07-03T00:51:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.test.Excel_object@184f6be2]" name="openbrowser" is-config="true" duration-ms="9507" started-at="2020-07-03T00:51:05 EDT" finished-at="2020-07-03T00:51:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getData(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:com.test.Excel_object@184f6be2]" name="getData" duration-ms="2327" started-at="2020-07-03T00:51:15 EDT" data-provider="facebook" finished-at="2020-07-03T00:51:17 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[md2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[islam2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.46400303E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.1133322E7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.test.Excel_object@184f6be2]" name="browserClose" is-config="true" duration-ms="1159" started-at="2020-07-03T00:51:17 EDT" finished-at="2020-07-03T00:51:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.test.Excel_object@184f6be2]" name="openbrowser" is-config="true" duration-ms="9389" started-at="2020-07-03T00:51:18 EDT" finished-at="2020-07-03T00:51:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getData(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:com.test.Excel_object@184f6be2]" name="getData" duration-ms="2696" started-at="2020-07-03T00:51:27 EDT" data-provider="facebook" finished-at="2020-07-03T00:51:30 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[md3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[islam3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.46400303E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.1133322E7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.test.Excel_object@184f6be2]" name="browserClose" is-config="true" duration-ms="1079" started-at="2020-07-03T00:51:30 EDT" finished-at="2020-07-03T00:51:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.test.Excel_object@184f6be2]" name="openbrowser" is-config="true" duration-ms="9422" started-at="2020-07-03T00:51:31 EDT" finished-at="2020-07-03T00:51:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getData(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object)[pri:0, instance:com.test.Excel_object@184f6be2]" name="getData" duration-ms="2097" started-at="2020-07-03T00:51:41 EDT" data-provider="facebook" finished-at="2020-07-03T00:51:43 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[md4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[islam4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.46400303E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.1133322E7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.test.Excel_object@184f6be2]" name="browserClose" is-config="true" duration-ms="1207" started-at="2020-07-03T00:51:43 EDT" finished-at="2020-07-03T00:51:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.test.Excel_object -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
